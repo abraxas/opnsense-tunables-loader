@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/opnsense-tunables-loader">opnsense-tunables-loader</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/opnsense-tunables-loader"><strong>https://abraxaslabs.tech/research/opnsense-tunables-loader</strong></a>
+</p>
+
 
 # opnsense-tunables-loader
 
